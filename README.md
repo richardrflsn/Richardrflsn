@@ -10,15 +10,22 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a react website**
+ 🔭 I’m currently working on **a mobile application**
  
- 🌱 I’m currently learning **Javascript, Flutter, React Native Expo, Laravel**
+ 🌱 I’m currently learning **React Native, Expo, Springboot**
 
- 💬 Ask me about **C, Java, Python, mySQL... or anything [here](https://github.com/Richardrflsn/Richardrflsn/issues)**
+ 💬 Ask me about **application development, full-stack development... or anything [here](https://github.com/Richardrflsn/Richardrflsn/issues)**
 
- 💼 Business inquire: Richardrflsn@gmail.com
+ 💼 Business inquire: richardrflsn@gmail.com
 
- ⚡ Fun fact **I Like You**
+Hobbies & Interests:
+  <span> 🏎️ Formula 1 & Motorsport</span>&nbsp;&nbsp;&nbsp;
+  <span>🎮 Gaming</span>&nbsp;&nbsp;&nbsp;
+  <span>🎵 Music</span>&nbsp;&nbsp;&nbsp;
+  <span>📚 Reading</span>&nbsp;&nbsp;&nbsp;
+  <span>🌍 Traveling</span>
+<br/>
+<br/>
  
  </div>
  
@@ -36,11 +43,18 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+<h2 align="center">⚒️ Technical Skills & Tools ⚒️</h2>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,java,javascript,python,mysql,androidstudio,flutter" /><br>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,figma,git,arduino,unity" />
+
+  <!-- Technical Skills -->
+  <h3>💻 Technical Skills</h3>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,c,java,python,postgresql,react,nodejs,expressjs" /><br><br>
+
+  <!-- Tools -->
+  <h3>🛠️ Tools & Platforms</h3>
+  <img src="https://skillicons.dev/icons?i=vscode,figma,postman,github,gitlab,docker,androidstudio,unity" />
+
 </div>
 
 <br/>
@@ -51,21 +65,9 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Richardrflsn/Richardrflsn/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=Richardrflsn&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/><br/>
 <hr/>
 
 <h3 align="center">
