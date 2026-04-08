@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Richard+Rafelson!;" />
 </h1>
 
-<h3 align="center">A passionate developer from Indonesia 🇲🇨</h3>
+<h3 align="center">A full-stack developer from Indonesia 🇲🇨</h3>
 
 <br/>
 
@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a mobile application**
  
- 🌱 I’m currently learning **React Native, Expo, Springboot**
+ 🌱 I’m currently learning **React Native, Java, Expo, Springboot**
 
  💬 Ask me about **application development, full-stack development... or anything [here](https://github.com/Richardrflsn/Richardrflsn/issues)**
 
